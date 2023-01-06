@@ -1,1 +1,1 @@
-0x04-TypeScript# alx-frontend-javascript
+# alx-frontend-javascript
